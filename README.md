@@ -88,23 +88,7 @@ A modern Android application developed using **Kotlin** demonstrating the concep
 
 ---
 
-## 📥 How to Clone & Run
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/maharsh-patel/MAD_24012011102_Practical_3.git
-   ```
-
-2. **Open in Android Studio:**
-   * Launch **Android Studio**.
-   * Select **File > Open** and select the project folder (`MAD_24012011102_practical3`).
-
-3. **Build & Run:**
-   * Let Gradle sync dependencies automatically.
-   * Select an Emulator or connected Physical Device (Android API 24+).
-   * Click **Run (Shift + F10)**.
-
----
 
 **Submitted by Maharsh Patel**  
 **Enrollment No: 24012011102**  
